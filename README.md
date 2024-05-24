@@ -9,6 +9,8 @@ Welcome to Todo + Mate, a demonstration mobile application that showcases my lea
 - **User-Friendly Interface**: Simple and intuitive UI for smooth navigation.
 
 ![Simulator Screenshot - iPhone 15 - 2024-05-24 at 13 16 47](https://github.com/RNNivash/todo_menu/assets/90308206/0a31f1c6-96d3-46f5-9d92-8caae1c111cd)
+![Simulator Screenshot - iPhone 15 - 2024-05-24 at 13 16 56](https://github.com/RNNivash/Sky_scope/assets/90308206/4df49df8-92ba-41c5-87f3-d033aad136e9)
+
 
 ## How to Use
 
