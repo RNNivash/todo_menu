@@ -8,7 +8,7 @@ Welcome to Todo + Mate, a demonstration mobile application that showcases my lea
 - **Restaurant Menu Card Demo**: Explore a sample restaurant menu card displayed in a ListView on the second screen.
 - **User-Friendly Interface**: Simple and intuitive UI for smooth navigation.
 
-
+![Simulator Screenshot - iPhone 15 - 2024-05-24 at 13 16 47](https://github.com/RNNivash/todo_menu/assets/90308206/0a31f1c6-96d3-46f5-9d92-8caae1c111cd)
 
 ## How to Use
 
